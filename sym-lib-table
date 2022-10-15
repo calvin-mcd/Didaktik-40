@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ComboDiode")(type "Legacy")(uri "${KIPRJMOD}/combodiode.pretty/ComboDiode.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/keebio-components/keebio.lib")(options "")(descr ""))
+)
