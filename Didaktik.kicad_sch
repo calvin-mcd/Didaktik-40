@@ -3511,7 +3511,7 @@
   (symbol (lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin") (at 193.04 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 773ca0f3-ad89-40fc-bb52-d706b4c154be)
-    (property "Reference" "J2" (id 0) (at 195.58 126.0855 0)
+    (property "Reference" "J1" (id 0) (at 195.58 126.0855 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04_MountingPin" (id 1) (at 195.58 128.6255 0)
@@ -4731,7 +4731,7 @@
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/773ca0f3-ad89-40fc-bb52-d706b4c154be"
-      (reference "J2") (unit 1) (value "Conn_01x04_MountingPin") (footprint "random-keyboard-parts:JST-SR-4")
+      (reference "J1") (unit 1) (value "Conn_01x04_MountingPin") (footprint "random-keyboard-parts:JST-SR-4")
     )
     (path "/1b233532-9656-4e4e-a0b7-8260db2f2d5f"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0402_1005Metric")
