@@ -4270,7 +4270,7 @@
 
   (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED" (layer "F.Cu")
     (tedit 5C7EAB78) (tstamp 67047929-5a2b-4fe5-ac85-b215a85653ab)
-    (at 41.35 41.275)
+    (at 41.28668 41.275)
     (property "Sheetfile" "Didaktik.kicad_sch")
     (property "Sheetname" "")
     (path "/1a47bc7b-d3a1-42a2-95cd-8449ac069c6f")
