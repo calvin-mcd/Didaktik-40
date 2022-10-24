@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Didaktik.kicad_pro",
+    "filename": "Didaktik switchplate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -401,7 +401,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Didaktik switchplate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
