@@ -401,7 +401,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Didaktik ppcb.step",
+      "step": "Didaktik pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
