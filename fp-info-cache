@@ -1,4 +1,4 @@
-21078976963915043
+21087317425040393
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57015,6 +57015,13 @@ MD_Diode
 2
 2
 Keebio-Parts
+MX-Alps-Choc-1.5U-NoLED
+
+
+0
+6
+2
+Keebio-Parts
 MX-Alps-Choc-1U
 
 
@@ -57050,12 +57057,40 @@ MX-Alps-Choc-2U
 8
 4
 Keebio-Parts
+MX-Alps-Choc-2U-NoLED-StabFlip
+
+
+0
+6
+2
+Keebio-Parts
 MX-Alps-Choc-2U-StabFlip
 
 
 0
 8
 4
+Keebio-Parts
+MX-Alps-Choc-3U-NoLED-StabFlip
+
+
+0
+6
+2
+Keebio-Parts
+MX-Alps-Choc-6U-NoLED-StabFlip
+
+
+0
+6
+2
+Keebio-Parts
+MX-Alps-Choc-7U-NoLED-StabFlip
+
+
+0
+6
+2
 Keebio-Parts
 MX-Alps_DMask
 
