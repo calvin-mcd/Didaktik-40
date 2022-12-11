@@ -5936,7 +5936,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 11773dbf-e1b8-41cd-8319-cb1760a72870)
-    (at 228.6 80.9625 90)
+    (at 234.95 79.375 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -6036,7 +6036,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 13905678-dbc7-4e82-9034-5dad592db121)
-    (at 57.15 80.9625 90)
+    (at 63.5 80.9625 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -6086,7 +6086,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 16a02c7d-eb21-4650-8fff-9574535912d7)
-    (at 209.55 80.9625 90)
+    (at 215.9 79.375 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -6136,7 +6136,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 17119d63-e97a-4dc4-bc19-24dc52852f4f)
-    (at 190.5 80.9625 90)
+    (at 196.85 79.375 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -6367,7 +6367,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 28bc06b5-5a1a-4feb-a17f-af0de6c28270)
-    (at 114.3 80.9625 90)
+    (at 120.65 80.9625 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -6664,7 +6664,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 41c270d6-efe3-45f4-8a21-72cd8446b916)
-    (at 152.4 80.9625 90)
+    (at 158.75 81.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -7263,7 +7263,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 714267a3-2e26-41c2-bede-8fb1535e34b1)
-    (at 76.2 80.9625 90)
+    (at 82.55 80.9625 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -7647,7 +7647,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 8f193430-cbe3-4de7-993e-834866408dbd)
-    (at 76.2 104.775 90)
+    (at 76.2 101.6 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -7981,7 +7981,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b12672f9-276b-429f-a69e-c02703cb9b81)
-    (at 100.0125 104.775 90)
+    (at 101.6 101.6 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -8031,7 +8031,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b9ffad01-7d98-495a-8153-5658fd449865)
-    (at 171.45 80.9625 90)
+    (at 177.8 80.9625 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -8223,7 +8223,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp c2ba3378-abd3-4940-a1b4-97f7f7cb9006)
-    (at 133.35 80.9625 90)
+    (at 139.7 80.9625 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -8625,7 +8625,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp fb0d696b-85b6-4509-9227-6afeb41f7098)
-    (at 95.25 80.9625 90)
+    (at 101.6 80.9625 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Didaktik multilayout.kicad_sch")
@@ -8753,6 +8753,21 @@
   (gr_text "2U" (at 117.475 101.6) (layer "B.SilkS") (tstamp c4b40767-112e-4aae-9e77-64f3b66f7328)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
+
+  (segment (start 91.44 93.345) (end 91.44 100.457) (width 0.25) (layer "B.Cu") (net 12) (tstamp 6c9f1e7f-d1b4-4434-aded-022de10c6547))
+  (segment (start 196.215 74.295) (end 196.85 74.93) (width 0.25) (layer "B.Cu") (net 29) (tstamp 19765fb9-8ed4-410b-b20a-72a8463afdf9))
+  (segment (start 196.85 74.93) (end 196.85 77.725) (width 0.25) (layer "B.Cu") (net 29) (tstamp b5e220b3-d55a-4ee9-8aee-f5b5e4bf202e))
+  (segment (start 215.265 74.295) (end 215.9 74.93) (width 0.25) (layer "B.Cu") (net 33) (tstamp ddc98276-89f9-4e16-b875-ca173524f35a))
+  (segment (start 215.9 74.93) (end 215.9 77.725) (width 0.25) (layer "B.Cu") (net 33) (tstamp f85a7ca4-db01-427c-b489-ae2bc39f0199))
+  (segment (start 76.2 103.25) (end 101.6 103.25) (width 0.25) (layer "B.Cu") (net 72) (tstamp 6c2613f0-623b-4361-8733-3b79452e5566))
+  (segment (start 197.568901 81.743901) (end 215.181099 81.743901) (width 0.25) (layer "B.Cu") (net 73) (tstamp 0904901f-99be-4542-a38e-4fbc4250fcb3))
+  (segment (start 234.231099 81.743901) (end 234.95 81.025) (width 0.25) (layer "B.Cu") (net 73) (tstamp 0e826445-45d9-439f-9aaf-9fd21fcd747f))
+  (segment (start 215.9 81.025) (end 216.618901 81.743901) (width 0.25) (layer "B.Cu") (net 73) (tstamp 4c475a6e-32f8-4bf3-8ea8-13df7a0c85b3))
+  (segment (start 216.618901 81.743901) (end 234.231099 81.743901) (width 0.25) (layer "B.Cu") (net 73) (tstamp 4dd21f35-e771-4826-bb1d-17768c4493fc))
+  (segment (start 158.75 82.675) (end 177.7375 82.675) (width 0.25) (layer "B.Cu") (net 73) (tstamp 63c0b796-e598-4a02-8006-9f1240b7228b))
+  (segment (start 215.181099 81.743901) (end 215.9 81.025) (width 0.25) (layer "B.Cu") (net 73) (tstamp 75c57b9d-9a15-42d0-8ef3-8809876cca1e))
+  (segment (start 196.85 81.025) (end 197.568901 81.743901) (width 0.25) (layer "B.Cu") (net 73) (tstamp cf52b5eb-2dc5-41eb-9f74-50b6ec337e50))
+  (segment (start 177.7375 82.675) (end 177.8 82.6125) (width 0.25) (layer "B.Cu") (net 73) (tstamp fdb88ee4-4852-41ce-9ed7-a6fda8485754))
 
   (zone (net 0) (net_name "") (layers F&B.Cu) (tstamp 7c8f924b-a869-4c70-b295-01dc3613d708) (hatch edge 0.508)
     (connect_pads (clearance 0))
