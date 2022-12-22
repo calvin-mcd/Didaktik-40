@@ -1,4 +1,4 @@
-21087317425040393
+21085652764803024
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88275,13 +88275,6 @@ Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
 0
 2
-2
-combodiode
-ComboDiode
-SOD-123
-SOD-123
-0
-6
 2
 kbd
 1pin_conn
