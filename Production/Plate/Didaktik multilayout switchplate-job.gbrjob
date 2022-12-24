@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.7)"
     },
-    "CreationDate": "2022-12-24T21:52:29+01:00"
+    "CreationDate": "2022-12-24T21:54:13+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Didaktik multilayout",
+      "Name": "Didaktik multilayout switchplate",
       "GUID": "44696461-6b74-4696-9b20-6d756c74696c",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 209.7,
-      "Y": 76.35
+      "X": 209.75,
+      "Y": 86.1118
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,57 +24,56 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
       "TrackToRegion": 0.2,
       "RegionToRegion": 0.2
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "Didaktik multilayout-F_Cu.gbr",
+      "Path": "Didaktik multilayout switchplate-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-B_Cu.gbr",
+      "Path": "Didaktik multilayout switchplate-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-F_Paste.gbr",
+      "Path": "Didaktik multilayout switchplate-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-B_Paste.gbr",
+      "Path": "Didaktik multilayout switchplate-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-F_Silkscreen.gbr",
+      "Path": "Didaktik multilayout switchplate-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-B_Silkscreen.gbr",
+      "Path": "Didaktik multilayout switchplate-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-F_Mask.gbr",
+      "Path": "Didaktik multilayout switchplate-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Didaktik multilayout-B_Mask.gbr",
+      "Path": "Didaktik multilayout switchplate-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Didaktik multilayout-Edge_Cuts.gbr",
+      "Path": "Didaktik multilayout switchplate-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
