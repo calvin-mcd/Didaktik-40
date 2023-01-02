@@ -61,7 +61,7 @@
       (creategerberjobfile true)
       (svguseinch false)
       (svgprecision 6)
-      (excludeedgelayer true)
+      (excludeedgelayer false)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
