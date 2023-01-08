@@ -1950,7 +1950,7 @@
     (uuid fb66fce3-6322-4a29-8776-f78640b5e8e6)
   )
 
-  (no_connect (at 68.58 87.63) (uuid 11291ac3-5137-4ed5-a2fa-cbebc8328ccb))
+  (no_connect (at 38.1 46.99) (uuid 255e938f-fca5-4d50-af34-01de312871ed))
 
   (wire (pts (xy 183.515 107.95) (xy 184.15 107.95))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -3022,10 +3022,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "RGB" (shape input) (at 38.1 46.99 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
+  (global_label "RGB" (shape input) (at 68.58 87.63 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9093b18f-9db3-470e-a624-ddb8f28722b7)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -123.19 -0.635 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 229.87 135.255 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
