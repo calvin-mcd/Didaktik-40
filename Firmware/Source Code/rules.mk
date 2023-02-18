@@ -1,0 +1,10 @@
+# This file intentionally left blank
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+AUDIO_ENABLE = yes
+
+SPACE_CADET_ENABLE = no
+GRAVE_ESC_ENABLE = no 
+MAGIC_ENABLE = no
+AVR_USE_MINIMAL_PRINTF = yes
+

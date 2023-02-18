@@ -409,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Didaktik multilayout.kicad_pro",
+    "filename": "Didaktik rp2040.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -515,6 +515,14 @@
     [
       "6e18f33c-52fd-4500-abcd-bacc1810501e",
       ""
+    ],
+    [
+      "d8791db5-f464-49bb-ad8b-37845fcd0909",
+      "matrix"
+    ],
+    [
+      "45857a2d-aa8d-4210-86ca-38a01efddb7c",
+      "components"
     ]
   ],
   "text_variables": {}
