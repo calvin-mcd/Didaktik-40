@@ -1703,6 +1703,10 @@
     (uuid 00bdfb1d-555f-4fe7-93f7-93f86cc7774d)
   )
 
+  (label "XTAL_O" (at 45.72 153.035 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5e0fcfde-cb36-4fd6-9869-19922b428d1b)
+  )
   (label "D_+" (at 29.591 40.005 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 605e884f-7174-440d-8216-852c380d4461)
