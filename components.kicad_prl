@@ -3,16 +3,14 @@
     "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6200000047683716
+      "zones": 0.6
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -20,7 +18,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -41,6 +39,7 @@
       11,
       12,
       13,
+      14,
       15,
       16,
       17,
@@ -61,14 +60,13 @@
       33,
       34,
       35,
-      36,
-      40
+      36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Didaktik rp2040.kicad_prl",
+    "filename": "components.kicad_prl",
     "version": 3
   },
   "project": {
