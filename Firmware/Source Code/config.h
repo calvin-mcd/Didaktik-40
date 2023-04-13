@@ -7,6 +7,9 @@
 
 #define AUDIO_PIN B7
 
+#define LED0_PIN D5
+#define LED1_PIN D3
+
 #undef LOCKING_SUPPORT_ENABLE
 #undef LOCKING_RESYNC_ENABLE
 

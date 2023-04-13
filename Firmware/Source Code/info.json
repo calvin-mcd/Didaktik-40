@@ -39,10 +39,11 @@
     //    "sleep": true
     //},
 
-    "indicators": {
-        "compose": "D5",
-        "caps_lock": "D3"
-    },
+    //"indicators": {
+    //    "compose": "D5",
+    //    "caps_lock": "D3"
+    //},
+
     "layouts": {
         "LAYOUT": {
             "layout": [
