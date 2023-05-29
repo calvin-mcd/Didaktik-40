@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.7)"
+      "Version": "(7.0.0)"
     },
-    "CreationDate": "2023-01-26T12:09:47+01:00"
+    "CreationDate": "2023-05-29T16:43:27+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Didaktik multilayout",
-      "GUID": "44696461-6b74-4696-9b20-6d756c74696c",
+      "Name": "Didaktik",
+      "GUID": "44696461-6b74-4696-9b2e-6b696361645f",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Didaktik multilayout-F_Cu.gbr",
+      "Path": "Didaktik-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-B_Cu.gbr",
+      "Path": "Didaktik-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-F_Paste.gbr",
+      "Path": "Didaktik-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-B_Paste.gbr",
+      "Path": "Didaktik-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-F_Silkscreen.gbr",
+      "Path": "Didaktik-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-B_Silkscreen.gbr",
+      "Path": "Didaktik-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Didaktik multilayout-F_Mask.gbr",
+      "Path": "Didaktik-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Didaktik multilayout-B_Mask.gbr",
+      "Path": "Didaktik-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Didaktik multilayout-Edge_Cuts.gbr",
+      "Path": "Didaktik-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
