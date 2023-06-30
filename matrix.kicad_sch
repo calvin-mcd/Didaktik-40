@@ -1383,7 +1383,7 @@
     (pin "1" (uuid 6515159e-76eb-485e-ba64-67e6c725a85e))
     (pin "2" (uuid e2a7a61c-956c-4fb3-b951-fe66830f0348))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW5") (unit 1)
         )
@@ -1412,7 +1412,7 @@
     (pin "1" (uuid 0deee3a3-0527-4619-9c9c-dca35840f5db))
     (pin "2" (uuid 7e03e930-cc93-4aef-bea1-af2f5f3e3954))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW39a1") (unit 1)
         )
@@ -1441,7 +1441,7 @@
     (pin "1" (uuid 58f50da0-c59b-49a8-a798-80705547f6ae))
     (pin "2" (uuid 7764b213-542b-400e-83dd-3d351673f47a))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D12") (unit 1)
         )
@@ -1470,7 +1470,7 @@
     (pin "1" (uuid d35c2a08-9989-4e22-ad27-177544cdfd0c))
     (pin "2" (uuid c113a2dd-41cb-456a-bbb6-b9644912a451))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D35") (unit 1)
         )
@@ -1499,7 +1499,7 @@
     (pin "1" (uuid 84a2736d-c6f0-4326-9469-43ef016b03b5))
     (pin "2" (uuid dc05c893-eade-4f00-b626-263270773064))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW35c1") (unit 1)
         )
@@ -1531,7 +1531,7 @@
     (pin "S1" (uuid e292b96a-0bb3-436b-b483-b5824da6735b))
     (pin "S2" (uuid 387118d8-cef7-4cf3-a99b-e446e9fccdaa))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW42") (unit 1)
         )
@@ -1560,7 +1560,7 @@
     (pin "1" (uuid 393b515c-3856-42ed-9801-82fa80f2ec49))
     (pin "2" (uuid 421b108e-c6e8-468f-88fa-154cdc10a3fb))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D9") (unit 1)
         )
@@ -1589,7 +1589,7 @@
     (pin "1" (uuid 25505e61-1aab-4819-83eb-34d66817311e))
     (pin "2" (uuid edb9ea10-ab6f-4311-8223-ad43456a1753))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D11") (unit 1)
         )
@@ -1618,7 +1618,7 @@
     (pin "1" (uuid 91f8ac19-433b-4238-bf2c-d1d22d857a57))
     (pin "2" (uuid 88e0924b-3963-4f6a-a873-aae169e5d85d))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D13") (unit 1)
         )
@@ -1647,7 +1647,7 @@
     (pin "1" (uuid 049c185f-c791-4e69-ad07-be69c253b449))
     (pin "2" (uuid b7ea436f-7a36-4ded-b5e4-9b6561972f56))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW20") (unit 1)
         )
@@ -1676,7 +1676,7 @@
     (pin "1" (uuid 78d18c02-304c-4cd6-9cfb-a3c4eb66b95e))
     (pin "2" (uuid 781e4875-f9f3-43d4-93ac-3bc338f059d5))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW19") (unit 1)
         )
@@ -1705,7 +1705,7 @@
     (pin "1" (uuid 1a3aa999-a0d3-43ea-8273-8da9913ca9c7))
     (pin "2" (uuid e5ba1242-2c31-4fd1-9b45-698add49ef22))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D14") (unit 1)
         )
@@ -1734,7 +1734,7 @@
     (pin "1" (uuid 611f375d-04b7-4d98-b9ed-3fc5b6e6484b))
     (pin "2" (uuid eb9ae890-75c0-4fc1-842a-22815519e306))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW38") (unit 1)
         )
@@ -1763,7 +1763,7 @@
     (pin "1" (uuid 17dc621e-e424-4013-8950-de0ee9f538d5))
     (pin "2" (uuid 32aee312-96f9-40ae-b20b-02040d8575c3))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D7") (unit 1)
         )
@@ -1792,7 +1792,7 @@
     (pin "1" (uuid a1ed08d2-5fe1-4152-a924-0783fad6bb68))
     (pin "2" (uuid 39191a6f-0275-4a0f-80fa-d0a608ec0107))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW29") (unit 1)
         )
@@ -1821,7 +1821,7 @@
     (pin "1" (uuid a28272ef-fe0c-4879-8a59-db58fa78b01e))
     (pin "2" (uuid a9fc1bde-8ef3-4cd1-95bb-80a3ab809c60))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW32") (unit 1)
         )
@@ -1850,7 +1850,7 @@
     (pin "1" (uuid 817c2fbb-c18c-4cad-9439-6830827c986c))
     (pin "2" (uuid 542c0bf7-662c-4982-b0b5-8d7525425b63))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D4") (unit 1)
         )
@@ -1879,7 +1879,7 @@
     (pin "1" (uuid 3f87e416-3cec-4bb5-80af-b85f74207c98))
     (pin "2" (uuid b28a6220-d1ed-4af1-aa86-03258788e946))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D39") (unit 1)
         )
@@ -1908,7 +1908,7 @@
     (pin "1" (uuid 6013334b-6f73-497c-b352-8070c5631e26))
     (pin "2" (uuid f117307d-acb5-4791-ae63-7394ca8dfc46))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D33") (unit 1)
         )
@@ -1937,7 +1937,7 @@
     (pin "1" (uuid 320cce91-5012-410b-9700-ef895d639da6))
     (pin "2" (uuid 8b5df676-9a0b-4b62-ab3e-0891c22a2a15))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D38") (unit 1)
         )
@@ -1966,7 +1966,7 @@
     (pin "1" (uuid 810f80e5-04b4-449f-b8bf-4cd19a6de526))
     (pin "2" (uuid 5cc85116-c280-4a97-9f36-a12db54933af))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW24") (unit 1)
         )
@@ -1994,7 +1994,7 @@
     )
     (pin "1" (uuid 42d4c444-82c7-47db-89c4-5c32d83b7c50))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "#PWR0124") (unit 1)
         )
@@ -2023,7 +2023,7 @@
     (pin "1" (uuid f1c19dd7-aaac-4657-bfef-a43e54b8b8b6))
     (pin "2" (uuid 4bc3b224-43b3-494c-be1f-83c28295e033))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW10") (unit 1)
         )
@@ -2052,7 +2052,7 @@
     (pin "1" (uuid e6e1bc4a-9647-4932-bec7-32cd4a0afda8))
     (pin "2" (uuid d588a680-d120-46ef-ac62-dadf5f509732))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW36c1") (unit 1)
         )
@@ -2081,7 +2081,7 @@
     (pin "1" (uuid 069971f3-acdc-42cc-b137-3afb15541323))
     (pin "2" (uuid cb446b93-cc04-415b-a016-a84ac5bbd378))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D22") (unit 1)
         )
@@ -2110,7 +2110,7 @@
     (pin "1" (uuid 57241f26-0a9f-4ad1-a169-bb33b9e25ec6))
     (pin "2" (uuid b3c93f94-ff9c-415a-9ccc-c9a800773a7d))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW36b1") (unit 1)
         )
@@ -2139,7 +2139,7 @@
     (pin "1" (uuid bd0444a7-d057-43fc-ae2d-41e9514060ab))
     (pin "2" (uuid 0e1f8945-4d3b-4fe7-88a4-fe0fd0759a79))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW8") (unit 1)
         )
@@ -2168,7 +2168,7 @@
     (pin "1" (uuid 2a2e55c8-192c-4887-97fa-b14a9b521eca))
     (pin "2" (uuid ea1b690a-a962-474b-b9bb-1676c376ed57))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D16") (unit 1)
         )
@@ -2197,7 +2197,7 @@
     (pin "1" (uuid d7809c81-796a-4b94-b679-b5606a2190cd))
     (pin "2" (uuid aca3b574-7b8e-41cc-835e-64063d1887f0))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW38a1") (unit 1)
         )
@@ -2226,7 +2226,7 @@
     (pin "1" (uuid 7228dbc3-437e-4bcc-8dfe-160aa5fd81df))
     (pin "2" (uuid d0db41d1-fa50-49b2-b3c9-be381c30e5ba))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW40a1") (unit 1)
         )
@@ -2255,7 +2255,7 @@
     (pin "1" (uuid 2dc06371-6d20-4c25-9b27-7de13d62212c))
     (pin "2" (uuid d0ed07c0-51c0-46ee-ac4f-b6c2edb0bbdf))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW31a1") (unit 1)
         )
@@ -2284,7 +2284,7 @@
     (pin "1" (uuid 443c7832-e5ec-4929-862d-92aebde232f4))
     (pin "2" (uuid 08589777-a121-484f-b959-3df3e2ce1091))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW15") (unit 1)
         )
@@ -2313,7 +2313,7 @@
     (pin "1" (uuid 8ae4fbcc-9959-44ca-aed6-0f22dbe58a38))
     (pin "2" (uuid 3e503023-00f1-41c1-bd46-ddb95eafcc71))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW34b1") (unit 1)
         )
@@ -2342,7 +2342,7 @@
     (pin "1" (uuid b2b05f46-1b74-4207-a96c-987b2b719487))
     (pin "2" (uuid f3354b35-d10a-4a7c-9729-41696e6e7c3d))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW25") (unit 1)
         )
@@ -2371,7 +2371,7 @@
     (pin "1" (uuid c31218fd-207b-4afb-bcea-4d7fe490fa4c))
     (pin "2" (uuid 2c2c0efb-8676-4add-be50-0bec6ecad8c2))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D19") (unit 1)
         )
@@ -2400,7 +2400,7 @@
     (pin "1" (uuid 12c3949c-06c9-40f8-b43c-574a4fc0a643))
     (pin "2" (uuid 4ac7b32e-599f-43e0-bcbe-c4f7719835b9))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D37") (unit 1)
         )
@@ -2429,7 +2429,7 @@
     (pin "1" (uuid a5783f5a-6022-4a9b-8606-61edcd781c56))
     (pin "2" (uuid c6b5f28a-e78b-4cda-a8a6-08504eb8b87e))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW11") (unit 1)
         )
@@ -2458,7 +2458,7 @@
     (pin "1" (uuid 705c6d17-fb67-4fd4-abab-ae5c725c0741))
     (pin "2" (uuid 62aa88bd-712f-4bcc-959a-625c6b137848))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW33") (unit 1)
         )
@@ -2487,7 +2487,7 @@
     (pin "1" (uuid b0db0fae-0e00-44cb-9e7b-420378cad7b3))
     (pin "2" (uuid 26bc6203-b6b0-4a64-a92c-faf0a54e5ebd))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D26") (unit 1)
         )
@@ -2516,7 +2516,7 @@
     (pin "1" (uuid 4261ab41-26df-44b4-bba0-fb80892fcdcb))
     (pin "2" (uuid a08811bc-4758-4578-a458-d46569514487))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D15") (unit 1)
         )
@@ -2545,7 +2545,7 @@
     (pin "1" (uuid c9c8ee3a-7faf-4909-b0c2-50748e3a3a2f))
     (pin "2" (uuid f1734001-a37b-4118-9f62-a2cda722a043))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW14") (unit 1)
         )
@@ -2574,7 +2574,7 @@
     (pin "1" (uuid 7c57ecad-f24d-4514-a911-a4c9bb2a019f))
     (pin "2" (uuid b8ef53c2-da8f-4abe-ae06-48275dd74da5))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW13") (unit 1)
         )
@@ -2603,7 +2603,7 @@
     (pin "1" (uuid 167b0795-066d-4c23-9786-0ee89d202701))
     (pin "2" (uuid 1b0703f0-cd05-4fcd-b6a1-5aa68e5974f6))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW27") (unit 1)
         )
@@ -2635,7 +2635,7 @@
     (pin "S1" (uuid 946c87f7-07e6-404a-ad1c-27944f1eef1e))
     (pin "S2" (uuid 21609f46-6ab1-447d-bd3d-6c7c9e7d1ae8))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW41") (unit 1)
         )
@@ -2664,7 +2664,7 @@
     (pin "1" (uuid 03a46f0a-57e3-4f16-8840-c880c355f039))
     (pin "2" (uuid 854a2d40-38a4-4c80-915c-58c3ddbadfdd))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW33a1") (unit 1)
         )
@@ -2693,7 +2693,7 @@
     (pin "1" (uuid 3b22db3d-c5df-4237-8b73-bb8ce54c34d4))
     (pin "2" (uuid 8a37166a-eb16-4d00-bb7d-a3a8bf5a756b))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW1") (unit 1)
         )
@@ -2722,7 +2722,7 @@
     (pin "1" (uuid 975a1de7-6d92-4841-ab14-7d08d2302a30))
     (pin "2" (uuid 1cb1e3d2-7dc0-4cea-9a8b-c26726d489e8))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW26") (unit 1)
         )
@@ -2751,7 +2751,7 @@
     (pin "1" (uuid 0346ae45-ca6e-47ad-97fc-30ab719a4d23))
     (pin "2" (uuid a107042a-1218-445d-ac2d-0977de6b3999))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW31") (unit 1)
         )
@@ -2780,7 +2780,7 @@
     (pin "1" (uuid 82ac6015-b950-41a1-beaa-63c2d0b1a30d))
     (pin "2" (uuid 68927298-e948-4e53-a92b-13f79bf2fdee))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D17") (unit 1)
         )
@@ -2809,7 +2809,7 @@
     (pin "1" (uuid 9f869de1-7e88-4b8c-bf93-5e5c1e8a1be8))
     (pin "2" (uuid 75fc802c-d0bb-41b8-9710-6ddc0c45863a))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW23") (unit 1)
         )
@@ -2838,7 +2838,7 @@
     (pin "1" (uuid 83f9020a-e3bd-4e09-bf87-ee914e554feb))
     (pin "2" (uuid 711bbc67-7229-4c8a-9fbc-06e2dc68a6ed))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D31") (unit 1)
         )
@@ -2867,7 +2867,7 @@
     (pin "1" (uuid 47fd1869-7867-41bb-b1e9-4fa1abc83970))
     (pin "2" (uuid ece7302a-3738-4893-a71f-b866fb179b71))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW30") (unit 1)
         )
@@ -2896,7 +2896,7 @@
     (pin "1" (uuid 46c28fc6-7c43-4d8c-8afb-473ad1160c75))
     (pin "2" (uuid dd774555-70d4-41ff-b55d-1eb723dffad9))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW3") (unit 1)
         )
@@ -2925,7 +2925,7 @@
     (pin "1" (uuid dc39533d-a3d2-4a60-b028-2fd1bf808c2d))
     (pin "2" (uuid d969318e-9a92-4c0b-bfc9-88ae9b3af467))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW28") (unit 1)
         )
@@ -2954,7 +2954,7 @@
     (pin "1" (uuid da7e409d-67e4-40b7-8f17-218cce7f7945))
     (pin "2" (uuid 28da6d22-8093-49c6-b90f-2a0b0d1d1412))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D24") (unit 1)
         )
@@ -2983,7 +2983,7 @@
     (pin "1" (uuid a4c2a293-aadd-47a2-84f8-a7def1e2b35b))
     (pin "2" (uuid 457d0913-affd-4b69-9abe-8674c53e435c))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW34") (unit 1)
         )
@@ -3012,7 +3012,7 @@
     (pin "1" (uuid 0691aa72-068b-4d21-8d38-655dd880db0c))
     (pin "2" (uuid dcdf57c4-00c0-4186-920c-2f27df2d1a67))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW36") (unit 1)
         )
@@ -3041,7 +3041,7 @@
     (pin "1" (uuid 79691cbf-22eb-4ed3-aded-57f9f5e32dd6))
     (pin "2" (uuid a6f6eaba-c52b-4b2a-b5ca-a1545f3d530e))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D21") (unit 1)
         )
@@ -3070,7 +3070,7 @@
     (pin "1" (uuid bfeffb15-fd22-4f7a-ad15-d7fdf4656e00))
     (pin "2" (uuid 9bccded9-1d61-42b2-baee-874713e9976d))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D10") (unit 1)
         )
@@ -3099,7 +3099,7 @@
     (pin "1" (uuid 8f3a8b3b-7e57-4356-a82a-ae18da138013))
     (pin "2" (uuid d823c43f-2108-488f-86b3-71836ecff4dc))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D20") (unit 1)
         )
@@ -3128,7 +3128,7 @@
     (pin "1" (uuid 8deff4bb-75be-4df2-93e9-7697ae48e465))
     (pin "2" (uuid 81c68e16-b395-4501-9a38-a07a97469de9))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D6") (unit 1)
         )
@@ -3157,7 +3157,7 @@
     (pin "1" (uuid 34fa293d-ea09-47ca-9d3e-4e55ce82b8c6))
     (pin "2" (uuid ef8f2720-8fa8-4617-91e4-aac655af74f3))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW32a1") (unit 1)
         )
@@ -3186,7 +3186,7 @@
     (pin "1" (uuid 5ae3f074-72a5-42f4-b84c-ba9077fcfb9d))
     (pin "2" (uuid 6aa1a3ab-2dcd-45de-8a41-38a2d8dd622c))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW37") (unit 1)
         )
@@ -3215,7 +3215,7 @@
     (pin "1" (uuid 60ec31cf-f3ac-4f81-8843-d2f88c3f4e35))
     (pin "2" (uuid 37597218-15bc-498f-a8b9-bc537a875860))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D32") (unit 1)
         )
@@ -3244,7 +3244,7 @@
     (pin "1" (uuid 1ae1a53e-722b-4534-ad5d-5f379dc5f527))
     (pin "2" (uuid fe667afd-308a-4f0d-b893-868b0d232d0a))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW35a1") (unit 1)
         )
@@ -3273,7 +3273,7 @@
     (pin "1" (uuid 133c793f-5507-41bf-98bf-1ce9a8df80bf))
     (pin "2" (uuid 9d70e8ae-e4c1-4ad1-8b12-5e6fcb117290))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D40") (unit 1)
         )
@@ -3301,7 +3301,7 @@
     )
     (pin "1" (uuid 94a7cec0-0329-43f0-b703-8a2e9f05d4cd))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "#PWR0121") (unit 1)
         )
@@ -3330,7 +3330,7 @@
     (pin "1" (uuid 6abbf491-7bff-4ba2-998c-2e37189f0c48))
     (pin "2" (uuid d4d2cb82-d99e-4f35-92f9-ceb069cb8a8b))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D27") (unit 1)
         )
@@ -3359,7 +3359,7 @@
     (pin "1" (uuid 0581538a-3fc9-489d-b817-f18e65ee6c95))
     (pin "2" (uuid 824854bd-f9f3-49fe-80a4-d75b7e043bac))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW35") (unit 1)
         )
@@ -3388,7 +3388,7 @@
     (pin "1" (uuid 2afce7aa-7cd1-4b38-a830-6278c7ab3781))
     (pin "2" (uuid f7552d7c-8703-4a1b-8737-d1fac91d57e0))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW18") (unit 1)
         )
@@ -3417,7 +3417,7 @@
     (pin "1" (uuid 2a470d28-06ce-4ae3-86f4-8e681eda0470))
     (pin "2" (uuid 77e2821a-71c2-4c56-8eac-828ade7931af))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW16") (unit 1)
         )
@@ -3446,7 +3446,7 @@
     (pin "1" (uuid 9b8830ce-6513-4dc7-bdad-792aac3e3e26))
     (pin "2" (uuid d9874223-4c20-4a92-a401-2ab962824c75))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW4") (unit 1)
         )
@@ -3475,7 +3475,7 @@
     (pin "1" (uuid 274b6904-c682-4eb1-936a-c1cd4e089587))
     (pin "2" (uuid 6e495c8d-5325-4357-8ec0-f8e5dd947ae6))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D1") (unit 1)
         )
@@ -3504,7 +3504,7 @@
     (pin "1" (uuid 693f84e1-1121-4086-b266-d188dd763756))
     (pin "2" (uuid f69c1a1e-e510-474f-abe2-b8012c0caba5))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D30") (unit 1)
         )
@@ -3533,7 +3533,7 @@
     (pin "1" (uuid 4cdd785b-9746-4d11-94de-55d2e38a24d0))
     (pin "2" (uuid 31ea32a0-0089-4831-ba11-a7cde9be3c32))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW21") (unit 1)
         )
@@ -3562,7 +3562,7 @@
     (pin "1" (uuid 46a23b44-bd08-439f-bde9-025a1119bff8))
     (pin "2" (uuid 069f80cb-6353-4c64-86d2-e33e220f6c55))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D28") (unit 1)
         )
@@ -3591,7 +3591,7 @@
     (pin "1" (uuid b81d4a39-9429-466e-a7ad-c43098423c75))
     (pin "2" (uuid 43893675-8129-4684-a2e9-251da38d9bdc))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D18") (unit 1)
         )
@@ -3620,7 +3620,7 @@
     (pin "1" (uuid 6df9798c-c142-47b9-a11f-df41c09ff1ea))
     (pin "2" (uuid ba644861-be37-40e3-8830-a80b33a9d6d9))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW34a1") (unit 1)
         )
@@ -3649,7 +3649,7 @@
     (pin "1" (uuid 9d693e19-ea89-4583-8835-5540dbca33d9))
     (pin "2" (uuid df32efb7-762f-4718-ab3e-31caaf4abbad))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW40") (unit 1)
         )
@@ -3678,7 +3678,7 @@
     (pin "1" (uuid e4ccbb59-907a-4c85-88a5-a620bc566052))
     (pin "2" (uuid 0e6f5546-dc9e-4a41-8543-2b3bbeb1c4ef))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW7") (unit 1)
         )
@@ -3707,7 +3707,7 @@
     (pin "1" (uuid 5c7b60d8-1172-430e-b703-753165b2c11b))
     (pin "2" (uuid ed8fc3be-1ea9-44aa-bb90-e5ddcf1e9130))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW6") (unit 1)
         )
@@ -3736,7 +3736,7 @@
     (pin "1" (uuid aca2c3c4-fd09-482f-a0d6-c130d2509920))
     (pin "2" (uuid 638691b4-6450-45f9-b3bd-19dee97e9b94))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW39") (unit 1)
         )
@@ -3765,7 +3765,7 @@
     (pin "1" (uuid f5fbc2ba-54df-42c4-88d5-efcc32eea33f))
     (pin "2" (uuid d0f308e1-a1fa-4cea-821a-97c7a0bf0c6e))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D41") (unit 1)
         )
@@ -3794,7 +3794,7 @@
     (pin "1" (uuid 0d5f684c-04c2-478d-8353-c15b6885a9b3))
     (pin "2" (uuid 8228ad16-1bf0-413c-a4ae-8aa44c7b5d94))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW22") (unit 1)
         )
@@ -3823,7 +3823,7 @@
     (pin "1" (uuid 0f4c2bbc-1a72-4f48-b6c9-51c104a117b0))
     (pin "2" (uuid cb86ca57-400e-4857-bc6d-050163a5a88d))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW35b1") (unit 1)
         )
@@ -3852,7 +3852,7 @@
     (pin "1" (uuid 7bd89a8d-67ee-4aac-98ec-95018efe901a))
     (pin "2" (uuid 66f4e679-a365-4fae-ba1a-30610912ecd8))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW2") (unit 1)
         )
@@ -3881,7 +3881,7 @@
     (pin "1" (uuid 58038878-d1aa-4973-b343-b07424706814))
     (pin "2" (uuid 13e0a8a8-84e0-440a-b611-366829db55e1))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW37b1") (unit 1)
         )
@@ -3910,7 +3910,7 @@
     (pin "1" (uuid 89bfbf02-1adc-4a08-acb7-18a806ae1ddd))
     (pin "2" (uuid 526149e2-bb11-4540-82bd-b8e4b5149df6))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW17") (unit 1)
         )
@@ -3939,7 +3939,7 @@
     (pin "1" (uuid 7415b921-9f18-4130-a15d-e368b608797e))
     (pin "2" (uuid 95635576-522f-4ff1-9578-b1452677cabc))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW12") (unit 1)
         )
@@ -3968,7 +3968,7 @@
     (pin "1" (uuid 150b6b41-8969-43db-a0d1-c34554058beb))
     (pin "2" (uuid 54c55e4d-8e9b-417a-8fc4-f307c961e990))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D29") (unit 1)
         )
@@ -3997,7 +3997,7 @@
     (pin "1" (uuid 71a5333e-518e-4c75-98f5-434af5337f4f))
     (pin "2" (uuid 3ccd9e73-1b26-4729-96e8-f9ec3331eacd))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D36") (unit 1)
         )
@@ -4026,7 +4026,7 @@
     (pin "1" (uuid 15c41dc6-01c8-48ff-bf11-0678ae97ade2))
     (pin "2" (uuid e246d101-4461-4246-a9a5-acfc05ec3b01))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D8") (unit 1)
         )
@@ -4055,7 +4055,7 @@
     (pin "1" (uuid ecfd57be-7db8-4aa3-9e5d-a70b73488479))
     (pin "2" (uuid 8b4956ea-677e-4ba7-a5e8-144210dc4fe8))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D23") (unit 1)
         )
@@ -4084,7 +4084,7 @@
     (pin "1" (uuid 31363fb8-f648-4ece-babc-bdfbff62764f))
     (pin "2" (uuid 5eba1427-21aa-4683-9f2a-dae5ed8d9654))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D5") (unit 1)
         )
@@ -4113,7 +4113,7 @@
     (pin "1" (uuid 2d53b031-2cc7-4d86-be95-f28360fc4cd4))
     (pin "2" (uuid 36e186ae-32d4-4f61-bf11-8a0c18bdf9f8))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D34") (unit 1)
         )
@@ -4142,7 +4142,7 @@
     (pin "1" (uuid 05bd6d09-fbf0-4090-99d1-7ed86e11982c))
     (pin "2" (uuid ffc22ec5-4d27-4ca7-ad3e-aeb13d2bc93d))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D3") (unit 1)
         )
@@ -4171,7 +4171,7 @@
     (pin "1" (uuid 3e4df625-6b78-44d6-8f8b-0a707a51a0db))
     (pin "2" (uuid 037f3167-695f-42f5-8add-58c29f06bec9))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW9") (unit 1)
         )
@@ -4200,7 +4200,7 @@
     (pin "1" (uuid 2eb73043-afdc-4734-8c2f-7e0dfa1fcee2))
     (pin "2" (uuid 007f4288-42d0-4c80-a392-da2e1a06e427))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW36a1") (unit 1)
         )
@@ -4229,7 +4229,7 @@
     (pin "1" (uuid 3addbda4-17f4-4b20-98fd-72dd294dc926))
     (pin "2" (uuid 4fea0b49-4b5d-41bb-8eeb-11d730307221))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "SW37a1") (unit 1)
         )
@@ -4258,7 +4258,7 @@
     (pin "1" (uuid 56377615-eb15-447c-a1ad-dd4369c0c031))
     (pin "2" (uuid 5e0986fa-b19f-4c8f-8a42-17ef340b2700))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D2") (unit 1)
         )

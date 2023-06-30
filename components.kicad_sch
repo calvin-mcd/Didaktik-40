@@ -723,7 +723,7 @@
     )
     (pin "1" (uuid 47c9b99d-769f-4d73-93bd-64cf6e03a804))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "#PWR0120") (unit 1)
         )
@@ -752,7 +752,7 @@
     (pin "1" (uuid 5aaf6b08-f896-4232-8a7a-5ed3f2c64e78))
     (pin "2" (uuid 6aebf9af-8e26-4762-ae1b-179c00900be5))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "LS1") (unit 1)
         )
@@ -781,7 +781,7 @@
     (pin "1" (uuid b781ae15-4355-4f5a-afd6-e3e0be45a579))
     (pin "2" (uuid 9679e84d-1cf7-485c-8e20-bca84435dfe6))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "R5") (unit 1)
         )
@@ -809,7 +809,7 @@
     )
     (pin "1" (uuid 97e75680-5d77-415c-99b1-aae9167621e8))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "#PWR0126") (unit 1)
         )
@@ -837,7 +837,7 @@
     )
     (pin "1" (uuid bd7e6815-3bba-49f6-9b31-6b4e904590cf))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/45857a2d-aa8d-4210-86ca-38a01efddb7c"
           (reference "#PWR038") (unit 1)
         )
@@ -866,7 +866,7 @@
     (pin "4" (uuid ea92e502-634c-4517-b940-ee33fcc1b11b))
     (pin "5" (uuid 49acd209-5296-46e6-8cdc-8f984c661e49))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/45857a2d-aa8d-4210-86ca-38a01efddb7c"
           (reference "U5") (unit 1)
         )
@@ -892,7 +892,7 @@
     (pin "1" (uuid eb7b00d0-9bde-4840-9838-5ee27027d3d7))
     (pin "2" (uuid 6d895eac-f88e-4b1e-97e7-0c6a67970421))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D43") (unit 1)
         )
@@ -912,7 +912,7 @@
     (property "Value" "220 ohm" (at 50.8 45.0849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 48.895 43.815 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 48.895 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 48.895 43.815 0)
@@ -921,7 +921,7 @@
     (pin "1" (uuid caacbdd8-94fe-43e0-89b3-a034c97f6a98))
     (pin "2" (uuid 703f8f76-fec1-4513-9fb7-3520b8837397))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "R9") (unit 1)
         )
@@ -950,7 +950,7 @@
     (pin "1" (uuid 063dbc98-8d40-4459-b8c6-e34295410cdc))
     (pin "2" (uuid 15573a43-d24d-4078-97ad-a365bfc848da))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/45857a2d-aa8d-4210-86ca-38a01efddb7c"
           (reference "C1") (unit 1)
         )
@@ -975,7 +975,7 @@
     )
     (pin "1" (uuid 21b4c14e-4dec-4cda-a8e0-3a2e4011dce5))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "#PWR0122") (unit 1)
         )
@@ -995,7 +995,7 @@
     (property "Value" "1k" (at 161.798 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 160.02 39.37 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 160.02 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 39.37 0)
@@ -1004,7 +1004,7 @@
     (pin "1" (uuid 6906c98c-72c0-47c1-87b1-56ff0cb2b2f0))
     (pin "2" (uuid 587998b8-6ea2-4b39-bd7d-4ec52ca8ca71))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "R6") (unit 1)
         )
@@ -1034,7 +1034,7 @@
     (pin "2" (uuid 3d406a3e-0d3a-4f6c-b234-4e49a2840347))
     (pin "3" (uuid 7f83e128-96e9-4c4a-af87-beba31eed21c))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "Q1") (unit 1)
         )
@@ -1062,7 +1062,7 @@
     )
     (pin "1" (uuid aa802829-1036-4000-b975-9e30cd6dcd78))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/45857a2d-aa8d-4210-86ca-38a01efddb7c"
           (reference "#PWR037") (unit 1)
         )
@@ -1087,7 +1087,7 @@
     )
     (pin "1" (uuid 7080da1c-e0b6-4320-a9d1-119a3bfbadc8))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/45857a2d-aa8d-4210-86ca-38a01efddb7c"
           (reference "#PWR039") (unit 1)
         )
@@ -1112,7 +1112,7 @@
     )
     (pin "1" (uuid b374c4a5-014f-4263-a30b-aec810fbc6e7))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "#PWR0123") (unit 1)
         )
@@ -1142,7 +1142,7 @@
     (pin "2" (uuid e9ede2c9-aea3-4ed0-97a6-92c5a950042b))
     (pin "3" (uuid 4d56b771-3f29-4bd2-9fe2-213e49e64882))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "J3") (unit 1)
         )
@@ -1170,7 +1170,7 @@
     )
     (pin "1" (uuid 95a12672-f280-453c-aa29-596b1876a60a))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "#PWR0125") (unit 1)
         )
@@ -1198,7 +1198,7 @@
     )
     (pin "1" (uuid 43839c9d-891d-4e2c-8d38-baf6ed2df373))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/45857a2d-aa8d-4210-86ca-38a01efddb7c"
           (reference "#PWR040") (unit 1)
         )
@@ -1224,7 +1224,7 @@
     (pin "1" (uuid 1bec129f-7645-4244-80ba-229c8018225d))
     (pin "2" (uuid a18955fa-f749-451b-8405-2af8216aa088))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "D42") (unit 1)
         )
@@ -1244,7 +1244,7 @@
     (property "Value" "220 ohm" (at 38.1 45.085 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 36.195 43.815 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 36.195 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 36.195 43.815 0)
@@ -1253,7 +1253,7 @@
     (pin "1" (uuid 2fc702f1-5aca-47fc-adda-5b6e6fa199a3))
     (pin "2" (uuid 83fec5a3-a8de-409a-b0d5-e038054fa849))
     (instances
-      (project "Didaktik rp2040"
+      (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
           (reference "R8") (unit 1)
         )
