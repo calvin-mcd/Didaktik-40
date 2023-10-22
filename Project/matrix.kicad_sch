@@ -1368,7 +1368,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 02149a52-d2db-4a01-948d-bf9a25546edb)
-    (property "Reference" "SW5" (at 97.79 40.005 0)
+    (property "Reference" "SW?" (at 97.79 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 40.005 0)
@@ -1385,10 +1385,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW5") (unit 1)
+          (reference "SW7") (unit 1)
         )
       )
     )
@@ -1397,7 +1397,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 123.19 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 026eb45c-6553-4af0-9702-cb24a0d2e89c)
-    (property "Reference" "SW39a1" (at 123.19 101.6 0)
+    (property "Reference" "SW39a?" (at 123.19 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 123.19 101.6 0)
@@ -1414,7 +1414,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW39a1") (unit 1)
+          (reference "SW39a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW39a1") (unit 1)
@@ -1426,7 +1426,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 82.55 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0799ed54-1c9f-4dfc-bb0f-fa7560b2c959)
-    (property "Reference" "D12" (at 85.09 92.075 0)
+    (property "Reference" "D?" (at 85.09 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 86.36 92.075 0)
@@ -1443,10 +1443,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D12") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
@@ -1455,7 +1455,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 120.65 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e035a82-658d-4a87-86f7-0df07c838825)
-    (property "Reference" "D35" (at 123.19 66.04 0)
+    (property "Reference" "D?" (at 123.19 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 124.46 66.04 0)
@@ -1472,10 +1472,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D35") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D35") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -1484,7 +1484,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 127 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0fa4b9e6-4d2b-47a3-b7cc-a3f6c73bcf2b)
-    (property "Reference" "SW35c1" (at 97.79 121.92 0)
+    (property "Reference" "SW35c?" (at 97.79 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 121.92 0)
@@ -1501,7 +1501,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW35c1") (unit 1)
+          (reference "SW35c?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW35c1") (unit 1)
@@ -1513,7 +1513,7 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 144.145 73.66 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11529235-dcb0-462c-9e96-350733c0e795)
-    (property "Reference" "SW42" (at 144.145 83.82 0)
+    (property "Reference" "SW?" (at 144.145 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RotaryEncoder_Switch" (at 144.145 81.28 0)
@@ -1533,10 +1533,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW42") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW42") (unit 1)
+          (reference "SW33") (unit 1)
         )
       )
     )
@@ -1545,7 +1545,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 82.55 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 157d3c98-8f2e-4b8c-ba00-30934b950a3c)
-    (property "Reference" "D9" (at 85.09 50.165 0)
+    (property "Reference" "D?" (at 85.09 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 86.36 50.165 0)
@@ -1562,10 +1562,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D9") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D9") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -1574,7 +1574,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 82.55 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 18814d2e-561a-4182-a4da-5c50e764a3e9)
-    (property "Reference" "D11" (at 85.09 78.74 0)
+    (property "Reference" "D?" (at 85.09 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 86.36 78.74 0)
@@ -1591,10 +1591,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D11") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D11") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -1603,7 +1603,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 88.9 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ca48093-914d-40d1-b111-a6118c6324d4)
-    (property "Reference" "D13" (at 91.44 50.165 0)
+    (property "Reference" "D?" (at 91.44 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 92.71 50.165 0)
@@ -1620,10 +1620,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D13") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D13") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -1632,7 +1632,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 129.54 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d2f692b-4517-4e18-b59b-2586ffc93898)
-    (property "Reference" "SW20" (at 129.54 55.88 0)
+    (property "Reference" "SW?" (at 129.54 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 129.54 55.88 0)
@@ -1649,10 +1649,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW20") (unit 1)
+          (reference "SW22") (unit 1)
         )
       )
     )
@@ -1661,7 +1661,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 123.19 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2020f272-6ec8-4926-9d6c-745a2f80b5af)
-    (property "Reference" "SW19" (at 123.19 55.88 0)
+    (property "Reference" "SW?" (at 123.19 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 123.19 55.88 0)
@@ -1678,10 +1678,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW19") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW19") (unit 1)
+          (reference "SW21") (unit 1)
         )
       )
     )
@@ -1690,7 +1690,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 88.9 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20fa996a-89d3-43dc-aa70-706740676059)
-    (property "Reference" "D14" (at 91.44 66.04 0)
+    (property "Reference" "D?" (at 91.44 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 92.71 66.04 0)
@@ -1707,7 +1707,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "D14") (unit 1)
@@ -1719,7 +1719,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 116.84 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 269a8fab-9565-4096-bdcc-5dff7fdc6156)
-    (property "Reference" "SW38" (at 116.84 81.915 0)
+    (property "Reference" "SW?" (at 116.84 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 116.84 81.915 0)
@@ -1736,10 +1736,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW38") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW38") (unit 1)
+          (reference "SW41") (unit 1)
         )
       )
     )
@@ -1748,7 +1748,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 76.2 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2dacd539-1abd-4fd6-bd68-e716f9b53d8c)
-    (property "Reference" "D7" (at 78.74 78.74 0)
+    (property "Reference" "D?" (at 78.74 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 80.01 78.74 0)
@@ -1765,10 +1765,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D7") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D7") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -1777,7 +1777,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 123.19 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e75b506-8f56-46c6-97bf-e5e105b9079f)
-    (property "Reference" "SW29" (at 123.19 68.58 0)
+    (property "Reference" "SW?" (at 123.19 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 123.19 68.58 0)
@@ -1794,10 +1794,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW29") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW29") (unit 1)
+          (reference "SW31") (unit 1)
         )
       )
     )
@@ -1806,7 +1806,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 78.74 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3399807a-a0ee-4da9-b11e-a2c6105bffe0)
-    (property "Reference" "SW32" (at 78.74 81.915 0)
+    (property "Reference" "SW?" (at 78.74 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 78.74 81.915 0)
@@ -1823,10 +1823,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW32") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW32") (unit 1)
+          (reference "SW35") (unit 1)
         )
       )
     )
@@ -1835,7 +1835,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 69.85 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3667d115-386f-4ea7-bfc7-92b622438d75)
-    (property "Reference" "D4" (at 72.39 92.075 0)
+    (property "Reference" "D?" (at 72.39 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 73.66 92.075 0)
@@ -1852,10 +1852,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D4") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -1864,7 +1864,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 127 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 378f028f-54b5-4775-a904-67f214b53deb)
-    (property "Reference" "D39" (at 129.54 66.04 0)
+    (property "Reference" "D?" (at 129.54 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 130.81 66.04 0)
@@ -1881,10 +1881,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D39") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D39") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -1893,7 +1893,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 114.3 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3962658e-2ad0-432e-9602-0e60189ba5c8)
-    (property "Reference" "D33" (at 116.84 92.075 0)
+    (property "Reference" "D?" (at 116.84 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 118.11 92.075 0)
@@ -1910,10 +1910,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D33") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D33") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -1922,7 +1922,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 127 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3dd5928c-5998-4b19-ae9b-c9d291e5eefc)
-    (property "Reference" "D38" (at 129.54 50.165 0)
+    (property "Reference" "D?" (at 129.54 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 130.81 50.165 0)
@@ -1939,10 +1939,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D38") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D38") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -1951,7 +1951,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 91.44 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3edce307-6647-441f-becc-c4aa54285e95)
-    (property "Reference" "SW24" (at 91.44 68.58 0)
+    (property "Reference" "SW?" (at 91.44 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 91.44 68.58 0)
@@ -1968,10 +1968,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW24") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW24") (unit 1)
+          (reference "SW26") (unit 1)
         )
       )
     )
@@ -1980,7 +1980,7 @@
   (symbol (lib_id "power:GND") (at 50.8 40.005 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 40ed5ffa-d843-451e-b4ab-8f6a44e7ef81)
-    (property "Reference" "#PWR0124" (at 44.45 40.005 0)
+    (property "Reference" "#PWR?" (at 44.45 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 46.99 40.0049 90)
@@ -1996,10 +1996,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "#PWR0124") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -2008,7 +2008,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 129.54 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4236e6a5-4756-44d1-8dd0-7cc29c30962d)
-    (property "Reference" "SW10" (at 129.54 40.005 0)
+    (property "Reference" "SW?" (at 129.54 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 129.54 40.005 0)
@@ -2025,10 +2025,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW10") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW10") (unit 1)
+          (reference "SW12") (unit 1)
         )
       )
     )
@@ -2037,7 +2037,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 139.065 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4775a2ed-94ec-4b6a-93f2-dee3d4b19d6c)
-    (property "Reference" "SW36c1" (at 97.79 133.985 0)
+    (property "Reference" "SW36c?" (at 97.79 133.985 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 133.985 0)
@@ -2054,7 +2054,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW36c1") (unit 1)
+          (reference "SW36c?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW36c1") (unit 1)
@@ -2066,7 +2066,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 101.6 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e6a73bc-f818-4aac-aa99-01724cfe6c30)
-    (property "Reference" "D22" (at 104.14 66.04 0)
+    (property "Reference" "D?" (at 104.14 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 105.41 66.04 0)
@@ -2083,10 +2083,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D22") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D22") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -2095,7 +2095,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 104.14 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f00caa1-c874-4581-b67c-b5f8af07d0f3)
-    (property "Reference" "SW36b1" (at 104.14 113.03 0)
+    (property "Reference" "SW36b?" (at 104.14 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 104.14 113.03 0)
@@ -2112,7 +2112,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW36b1") (unit 1)
+          (reference "SW36b?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW36b1") (unit 1)
@@ -2124,7 +2124,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 116.84 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 50d4cbd5-40ab-4522-91ad-a5420dc5f526)
-    (property "Reference" "SW8" (at 116.84 40.005 0)
+    (property "Reference" "SW?" (at 116.84 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 116.84 40.005 0)
@@ -2141,10 +2141,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW8") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW8") (unit 1)
+          (reference "SW10") (unit 1)
         )
       )
     )
@@ -2153,7 +2153,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 88.9 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 52b77f92-9c04-4e23-9ca4-257d4f86fd33)
-    (property "Reference" "D16" (at 91.44 92.075 0)
+    (property "Reference" "D?" (at 91.44 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 92.71 92.075 0)
@@ -2170,10 +2170,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D16") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -2182,7 +2182,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 116.84 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5385acb0-2500-4b5e-a655-fddd87baf750)
-    (property "Reference" "SW38a1" (at 116.84 101.6 0)
+    (property "Reference" "SW38a?" (at 116.84 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 116.84 101.6 0)
@@ -2199,7 +2199,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW38a1") (unit 1)
+          (reference "SW38a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW38a1") (unit 1)
@@ -2211,7 +2211,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 129.54 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 56f116f7-8690-4e0f-bfa0-f4a0b7eadc47)
-    (property "Reference" "SW40a1" (at 129.54 101.6 0)
+    (property "Reference" "SW40a?" (at 129.54 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 129.54 101.6 0)
@@ -2228,7 +2228,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW40a1") (unit 1)
+          (reference "SW40a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW40a1") (unit 1)
@@ -2240,7 +2240,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 72.39 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a427c7d-0046-4ba5-8250-22480088b057)
-    (property "Reference" "SW31a1" (at 72.39 101.6 0)
+    (property "Reference" "SW31a?" (at 72.39 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 72.39 101.6 0)
@@ -2257,7 +2257,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW31a1") (unit 1)
+          (reference "SW31a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW31a1") (unit 1)
@@ -2269,7 +2269,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d8b40f6-141f-40d7-992a-5b7d85e326c5)
-    (property "Reference" "SW15" (at 97.79 55.88 0)
+    (property "Reference" "SW?" (at 97.79 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 55.88 0)
@@ -2286,10 +2286,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW15") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW15") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
     )
@@ -2298,7 +2298,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 91.44 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6048cc08-c496-4100-af2f-b4c6a3e66a07)
-    (property "Reference" "SW34b1" (at 91.44 113.03 0)
+    (property "Reference" "SW34b?" (at 91.44 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 91.44 113.03 0)
@@ -2315,7 +2315,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW34b1") (unit 1)
+          (reference "SW34b?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW34b1") (unit 1)
@@ -2327,7 +2327,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 60bf814c-103d-4ab8-8561-bb431fc0052f)
-    (property "Reference" "SW25" (at 97.79 68.58 0)
+    (property "Reference" "SW?" (at 97.79 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 68.58 0)
@@ -2344,10 +2344,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW25") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW25") (unit 1)
+          (reference "SW27") (unit 1)
         )
       )
     )
@@ -2356,7 +2356,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 95.25 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6941da5e-b84b-43ac-bf4f-d6c1ba20ae6f)
-    (property "Reference" "D19" (at 97.79 78.74 0)
+    (property "Reference" "D?" (at 97.79 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 99.06 78.74 0)
@@ -2373,10 +2373,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D19") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D19") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -2385,7 +2385,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 120.65 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69b1dbea-71b4-435f-b7ab-2086c50172d8)
-    (property "Reference" "D37" (at 123.19 92.075 0)
+    (property "Reference" "D?" (at 123.19 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 124.46 92.075 0)
@@ -2402,10 +2402,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D37") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D37") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -2414,7 +2414,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 72.39 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6bb3d985-2d06-4015-93c6-3411c5bba689)
-    (property "Reference" "SW11" (at 72.39 55.88 0)
+    (property "Reference" "SW?" (at 72.39 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 72.39 55.88 0)
@@ -2431,10 +2431,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW11") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW11") (unit 1)
+          (reference "SW13") (unit 1)
         )
       )
     )
@@ -2443,7 +2443,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6ec51752-39c8-4253-b2f7-a3e977cdb614)
-    (property "Reference" "SW33" (at 85.09 81.915 0)
+    (property "Reference" "SW?" (at 85.09 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 85.09 81.915 0)
@@ -2460,10 +2460,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW33") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW33") (unit 1)
+          (reference "SW36") (unit 1)
         )
       )
     )
@@ -2472,7 +2472,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 107.95 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 740fafb8-0454-4879-8852-d88d5bebd077)
-    (property "Reference" "D26" (at 110.49 50.165 0)
+    (property "Reference" "D?" (at 110.49 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 111.76 50.165 0)
@@ -2489,10 +2489,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D26") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -2501,7 +2501,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 88.9 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76ffb3c6-77d0-43b7-b95a-3ba9a01760e7)
-    (property "Reference" "D15" (at 91.44 78.74 0)
+    (property "Reference" "D?" (at 91.44 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 92.71 78.74 0)
@@ -2518,10 +2518,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D15") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D15") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -2530,7 +2530,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 91.44 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 770daeae-a639-4206-8405-dd6cca1ec0f0)
-    (property "Reference" "SW14" (at 91.44 55.88 0)
+    (property "Reference" "SW?" (at 91.44 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 91.44 55.88 0)
@@ -2547,10 +2547,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW14") (unit 1)
+          (reference "SW16") (unit 1)
         )
       )
     )
@@ -2559,7 +2559,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d2203ac-b74d-416a-ac7d-25be8f385151)
-    (property "Reference" "SW13" (at 85.09 55.88 0)
+    (property "Reference" "SW?" (at 85.09 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 85.09 55.88 0)
@@ -2576,10 +2576,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW13") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW13") (unit 1)
+          (reference "SW15") (unit 1)
         )
       )
     )
@@ -2588,7 +2588,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7dfc54e1-a68f-4e19-8992-1dc8ca4e1238)
-    (property "Reference" "SW27" (at 110.49 68.58 0)
+    (property "Reference" "SW?" (at 110.49 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 68.58 0)
@@ -2605,10 +2605,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW27") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW27") (unit 1)
+          (reference "SW29") (unit 1)
         )
       )
     )
@@ -2617,7 +2617,7 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 58.42 40.005 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f1ace9d-1c28-4845-b5f9-b7b39e8a5d16)
-    (property "Reference" "SW41" (at 58.42 30.48 0)
+    (property "Reference" "SW?" (at 58.42 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RotaryEncoder_Switch" (at 58.42 33.02 0)
@@ -2637,10 +2637,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW41") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW41") (unit 1)
+          (reference "SW2") (unit 1)
         )
       )
     )
@@ -2649,7 +2649,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 80d28bef-f152-4afb-af16-85306db4d5d1)
-    (property "Reference" "SW33a1" (at 85.09 101.6 0)
+    (property "Reference" "SW33a?" (at 85.09 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 85.09 101.6 0)
@@ -2666,7 +2666,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW33a1") (unit 1)
+          (reference "SW33a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW33a1") (unit 1)
@@ -2678,7 +2678,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 72.39 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 81ab40ce-f16e-44a2-bf49-199f6f6ca9c3)
-    (property "Reference" "SW1" (at 72.39 40.005 0)
+    (property "Reference" "SW?" (at 72.39 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 72.39 40.005 0)
@@ -2695,10 +2695,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW1") (unit 1)
+          (reference "SW3") (unit 1)
         )
       )
     )
@@ -2707,7 +2707,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 104.14 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 857d18b8-c3dd-4805-851d-c71069d68b06)
-    (property "Reference" "SW26" (at 104.14 68.58 0)
+    (property "Reference" "SW?" (at 104.14 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 104.14 68.58 0)
@@ -2724,10 +2724,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW26") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW26") (unit 1)
+          (reference "SW28") (unit 1)
         )
       )
     )
@@ -2736,7 +2736,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 72.39 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 85c41db8-1033-47f2-b237-bb220b8c65e6)
-    (property "Reference" "SW31" (at 72.39 81.915 0)
+    (property "Reference" "SW?" (at 72.39 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 72.39 81.915 0)
@@ -2753,10 +2753,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW31") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW31") (unit 1)
+          (reference "SW34") (unit 1)
         )
       )
     )
@@ -2765,7 +2765,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 95.25 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c0a0e53-7399-495a-8e2a-97f2162ea5b5)
-    (property "Reference" "D17" (at 97.79 50.165 0)
+    (property "Reference" "D?" (at 97.79 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 99.06 50.165 0)
@@ -2782,10 +2782,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D17") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D17") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -2794,7 +2794,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cc814d5-d410-4270-9549-2ba0de671ecb)
-    (property "Reference" "SW23" (at 85.09 68.58 0)
+    (property "Reference" "SW?" (at 85.09 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 85.09 68.58 0)
@@ -2811,10 +2811,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW23") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW23") (unit 1)
+          (reference "SW25") (unit 1)
         )
       )
     )
@@ -2823,7 +2823,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 114.3 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e81e422-7a5c-4071-ac87-d083520234a6)
-    (property "Reference" "D31" (at 116.84 66.04 0)
+    (property "Reference" "D?" (at 116.84 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 118.11 66.04 0)
@@ -2840,10 +2840,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D31") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D31") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -2852,7 +2852,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 129.54 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 92e35f2f-359a-4ea3-859d-f9a0a032056c)
-    (property "Reference" "SW30" (at 129.54 68.58 0)
+    (property "Reference" "SW?" (at 129.54 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 129.54 68.58 0)
@@ -2869,10 +2869,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW30") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW30") (unit 1)
+          (reference "SW32") (unit 1)
         )
       )
     )
@@ -2881,7 +2881,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93f9237b-22b5-4ca3-8652-22d2dddad053)
-    (property "Reference" "SW3" (at 85.09 40.005 0)
+    (property "Reference" "SW?" (at 85.09 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 85.09 40.005 0)
@@ -2898,10 +2898,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW3") (unit 1)
+          (reference "SW5") (unit 1)
         )
       )
     )
@@ -2910,7 +2910,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 116.84 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 948ccfb5-0c08-4020-958f-380b186a68b1)
-    (property "Reference" "SW28" (at 116.84 68.58 0)
+    (property "Reference" "SW?" (at 116.84 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 116.84 68.58 0)
@@ -2927,10 +2927,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW28") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW28") (unit 1)
+          (reference "SW30") (unit 1)
         )
       )
     )
@@ -2939,7 +2939,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 101.6 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c029c54-301b-4d33-89b5-bad9f95cc12a)
-    (property "Reference" "D24" (at 104.14 92.075 0)
+    (property "Reference" "D?" (at 104.14 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 105.41 92.075 0)
@@ -2956,10 +2956,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D24") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D24") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -2968,7 +2968,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 91.44 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c28fe5b-297d-4455-ae91-f6cd6e6c7624)
-    (property "Reference" "SW34" (at 91.44 81.915 0)
+    (property "Reference" "SW?" (at 91.44 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 91.44 81.915 0)
@@ -2985,10 +2985,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW34") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW34") (unit 1)
+          (reference "SW37") (unit 1)
         )
       )
     )
@@ -2997,7 +2997,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 104.14 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c336ccc-2777-4c19-8f7d-1b17b50191d6)
-    (property "Reference" "SW36" (at 104.14 81.915 0)
+    (property "Reference" "SW?" (at 104.14 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 104.14 81.915 0)
@@ -3014,10 +3014,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW36") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW36") (unit 1)
+          (reference "SW39") (unit 1)
         )
       )
     )
@@ -3026,7 +3026,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 101.6 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9fd2ee70-d3dd-439e-ae11-31a4a3204794)
-    (property "Reference" "D21" (at 104.14 50.165 0)
+    (property "Reference" "D?" (at 104.14 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 105.41 50.165 0)
@@ -3043,10 +3043,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D21") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D21") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -3055,7 +3055,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 82.55 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a533b60a-063c-400d-a58d-b27ee33f35cc)
-    (property "Reference" "D10" (at 85.09 66.04 0)
+    (property "Reference" "D?" (at 85.09 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 86.36 66.04 0)
@@ -3072,10 +3072,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D10") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D10") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
     )
@@ -3084,7 +3084,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 95.25 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a5c37a9d-68a0-41d3-8c5c-82b0f8bc5c1e)
-    (property "Reference" "D20" (at 97.79 92.075 0)
+    (property "Reference" "D?" (at 97.79 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 99.06 92.075 0)
@@ -3101,10 +3101,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D20") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -3113,7 +3113,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 76.2 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a5f0f50b-5584-482c-bc89-c5c3ea9abac0)
-    (property "Reference" "D6" (at 78.74 66.04 0)
+    (property "Reference" "D?" (at 78.74 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 80.01 66.04 0)
@@ -3130,10 +3130,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D6") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D6") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -3142,7 +3142,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 78.74 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a60a0c83-f00d-4e86-9a49-561b4fd98312)
-    (property "Reference" "SW32a1" (at 78.74 101.6 0)
+    (property "Reference" "SW32a?" (at 78.74 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 78.74 101.6 0)
@@ -3159,7 +3159,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW32a1") (unit 1)
+          (reference "SW32a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW32a1") (unit 1)
@@ -3171,7 +3171,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aa891ad2-c3ab-41af-9379-983f7be29067)
-    (property "Reference" "SW37" (at 110.49 81.915 0)
+    (property "Reference" "SW?" (at 110.49 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 81.915 0)
@@ -3188,10 +3188,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW37") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW37") (unit 1)
+          (reference "SW40") (unit 1)
         )
       )
     )
@@ -3200,7 +3200,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 114.3 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ab1d97dd-f69e-4af2-82a3-cb898fef71a3)
-    (property "Reference" "D32" (at 116.84 78.74 0)
+    (property "Reference" "D?" (at 116.84 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 118.11 78.74 0)
@@ -3217,10 +3217,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D32") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D32") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -3229,7 +3229,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad4e3989-f2d4-4a85-aea0-dca30bbc49ee)
-    (property "Reference" "SW35a1" (at 97.79 101.6 0)
+    (property "Reference" "SW35a?" (at 97.79 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 101.6 0)
@@ -3246,7 +3246,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW35a1") (unit 1)
+          (reference "SW35a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW35a1") (unit 1)
@@ -3258,7 +3258,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 127 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad610704-1b54-4d39-8a1b-a935a35d6c05)
-    (property "Reference" "D40" (at 129.54 78.74 0)
+    (property "Reference" "D?" (at 129.54 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 130.81 78.74 0)
@@ -3275,10 +3275,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D40") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D40") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -3287,7 +3287,7 @@
   (symbol (lib_id "power:GND") (at 151.765 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3dce7aa-247e-4142-b79c-6a814ff0b494)
-    (property "Reference" "#PWR0121" (at 158.115 73.66 0)
+    (property "Reference" "#PWR?" (at 158.115 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 155.575 73.6601 90)
@@ -3303,10 +3303,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "#PWR0121") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -3315,7 +3315,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 107.95 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bcb5023f-a23d-4e34-8ecf-1c4473951c1f)
-    (property "Reference" "D27" (at 110.49 66.04 0)
+    (property "Reference" "D?" (at 110.49 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 111.76 66.04 0)
@@ -3332,10 +3332,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D27") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D27") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -3344,7 +3344,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bcfc0b9d-c462-425c-991e-87f067993a96)
-    (property "Reference" "SW35" (at 97.79 81.915 0)
+    (property "Reference" "SW?" (at 97.79 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 81.915 0)
@@ -3361,10 +3361,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW35") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW35") (unit 1)
+          (reference "SW38") (unit 1)
         )
       )
     )
@@ -3373,7 +3373,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 116.84 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bdd6c434-5d80-47f7-a5e8-8b6a8a1cacc6)
-    (property "Reference" "SW18" (at 116.84 55.88 0)
+    (property "Reference" "SW?" (at 116.84 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 116.84 55.88 0)
@@ -3390,10 +3390,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW18") (unit 1)
+          (reference "SW20") (unit 1)
         )
       )
     )
@@ -3402,7 +3402,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 104.14 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c3bf1d51-9b2b-4e30-ae86-5bb611609e1f)
-    (property "Reference" "SW16" (at 104.14 55.88 0)
+    (property "Reference" "SW?" (at 104.14 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 104.14 55.88 0)
@@ -3419,10 +3419,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW16") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
     )
@@ -3431,7 +3431,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 91.44 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c408cdf9-5183-4e4f-9ae5-82c8bace85f6)
-    (property "Reference" "SW4" (at 91.44 40.005 0)
+    (property "Reference" "SW?" (at 91.44 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 91.44 40.005 0)
@@ -3448,10 +3448,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW4") (unit 1)
+          (reference "SW6") (unit 1)
         )
       )
     )
@@ -3460,7 +3460,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 69.85 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c42034f9-1408-4265-94b4-033e46a44436)
-    (property "Reference" "D1" (at 72.39 50.165 0)
+    (property "Reference" "D?" (at 72.39 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 73.66 50.165 0)
@@ -3477,7 +3477,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "D1") (unit 1)
@@ -3489,7 +3489,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 114.3 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c51b1abb-c30e-4cd9-a0d8-2b34762f8d2b)
-    (property "Reference" "D30" (at 116.84 50.165 0)
+    (property "Reference" "D?" (at 116.84 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 118.11 50.165 0)
@@ -3506,10 +3506,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D30") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D30") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -3518,7 +3518,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 72.39 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c79e5bb4-9bb9-43f2-89ca-bf7baded5505)
-    (property "Reference" "SW21" (at 72.39 68.58 0)
+    (property "Reference" "SW?" (at 72.39 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 72.39 68.58 0)
@@ -3535,10 +3535,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW21") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW21") (unit 1)
+          (reference "SW23") (unit 1)
         )
       )
     )
@@ -3547,7 +3547,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 107.95 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9f18431-1012-4431-b49c-3897c0d4bf46)
-    (property "Reference" "D28" (at 110.49 78.74 0)
+    (property "Reference" "D?" (at 110.49 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 111.76 78.74 0)
@@ -3564,10 +3564,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D28") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D28") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -3576,7 +3576,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 95.25 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9fee476-31b1-4808-a615-a10bfa1be45f)
-    (property "Reference" "D18" (at 97.79 66.04 0)
+    (property "Reference" "D?" (at 97.79 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 99.06 66.04 0)
@@ -3593,10 +3593,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D18") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -3605,7 +3605,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 91.44 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc0fac83-f161-4005-984f-7341ff442686)
-    (property "Reference" "SW34a1" (at 91.44 101.6 0)
+    (property "Reference" "SW34a?" (at 91.44 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 91.44 101.6 0)
@@ -3622,7 +3622,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW34a1") (unit 1)
+          (reference "SW34a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW34a1") (unit 1)
@@ -3634,7 +3634,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 129.54 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ceb51940-e030-4bcf-aff1-5d51a0ed41b1)
-    (property "Reference" "SW40" (at 129.54 81.915 0)
+    (property "Reference" "SW?" (at 129.54 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 129.54 81.915 0)
@@ -3651,10 +3651,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW40") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW40") (unit 1)
+          (reference "SW43") (unit 1)
         )
       )
     )
@@ -3663,7 +3663,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cfdc7972-f665-4f0c-917a-3d3c4c9faaa4)
-    (property "Reference" "SW7" (at 110.49 40.005 0)
+    (property "Reference" "SW?" (at 110.49 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 40.005 0)
@@ -3680,10 +3680,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW7") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW7") (unit 1)
+          (reference "SW9") (unit 1)
         )
       )
     )
@@ -3692,7 +3692,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 104.14 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d114a160-b616-4e20-85ef-f829281a1dc3)
-    (property "Reference" "SW6" (at 104.14 40.005 0)
+    (property "Reference" "SW?" (at 104.14 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 104.14 40.005 0)
@@ -3709,10 +3709,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW6") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW6") (unit 1)
+          (reference "SW8") (unit 1)
         )
       )
     )
@@ -3721,7 +3721,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 123.19 86.995 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d742c884-c0c7-4279-8c5c-80f98c20e6ff)
-    (property "Reference" "SW39" (at 123.19 81.915 0)
+    (property "Reference" "SW?" (at 123.19 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 123.19 81.915 0)
@@ -3738,10 +3738,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW39") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW39") (unit 1)
+          (reference "SW42") (unit 1)
         )
       )
     )
@@ -3750,7 +3750,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 127 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d821a99f-a912-4e76-a8ef-072b005288ff)
-    (property "Reference" "D41" (at 129.54 92.075 0)
+    (property "Reference" "D?" (at 129.54 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 130.81 92.075 0)
@@ -3767,10 +3767,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D41") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D41") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -3779,7 +3779,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 78.74 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dc2ff86a-e350-4e43-905a-1678bd0bc40c)
-    (property "Reference" "SW22" (at 78.74 68.58 0)
+    (property "Reference" "SW?" (at 78.74 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 78.74 68.58 0)
@@ -3796,10 +3796,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW22") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW22") (unit 1)
+          (reference "SW24") (unit 1)
         )
       )
     )
@@ -3808,7 +3808,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 97.79 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4d8e2e2-91b5-4cfa-b5a9-ab613d7a3306)
-    (property "Reference" "SW35b1" (at 97.79 113.03 0)
+    (property "Reference" "SW35b?" (at 97.79 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 97.79 113.03 0)
@@ -3825,7 +3825,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW35b1") (unit 1)
+          (reference "SW35b?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW35b1") (unit 1)
@@ -3837,7 +3837,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 78.74 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e7746b75-c652-4bc6-9e8b-d17d9378bb69)
-    (property "Reference" "SW2" (at 78.74 40.005 0)
+    (property "Reference" "SW?" (at 78.74 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 78.74 40.005 0)
@@ -3854,10 +3854,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW2") (unit 1)
+          (reference "SW4") (unit 1)
         )
       )
     )
@@ -3866,7 +3866,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e7ccf35f-2956-42fc-a78d-9331f5f2b6a8)
-    (property "Reference" "SW37b1" (at 110.49 113.03 0)
+    (property "Reference" "SW37b?" (at 110.49 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 113.03 0)
@@ -3883,7 +3883,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW37b1") (unit 1)
+          (reference "SW37b?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW37b1") (unit 1)
@@ -3895,7 +3895,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea1e6c29-001a-49aa-b29b-20ff1e92e11a)
-    (property "Reference" "SW17" (at 110.49 55.88 0)
+    (property "Reference" "SW?" (at 110.49 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 55.88 0)
@@ -3912,10 +3912,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW17") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW17") (unit 1)
+          (reference "SW19") (unit 1)
         )
       )
     )
@@ -3924,7 +3924,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 78.74 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eb1de4a4-5cf0-4216-adcd-c67f997c69d5)
-    (property "Reference" "SW12" (at 78.74 55.88 0)
+    (property "Reference" "SW?" (at 78.74 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 78.74 55.88 0)
@@ -3941,10 +3941,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW12") (unit 1)
+          (reference "SW14") (unit 1)
         )
       )
     )
@@ -3953,7 +3953,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 107.95 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ec7b4009-54ee-4360-964c-c51bd58cf566)
-    (property "Reference" "D29" (at 110.49 92.075 0)
+    (property "Reference" "D?" (at 110.49 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 111.76 92.075 0)
@@ -3970,10 +3970,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D29") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D29") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -3982,7 +3982,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 120.65 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee83aeb3-4ecc-4a76-896f-bb698b180125)
-    (property "Reference" "D36" (at 123.19 78.74 0)
+    (property "Reference" "D?" (at 123.19 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 124.46 78.74 0)
@@ -3999,10 +3999,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D36") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D36") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -4011,7 +4011,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 76.2 92.075 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f0b6151f-d855-47f2-a949-daf1d3aab25e)
-    (property "Reference" "D8" (at 78.74 92.075 0)
+    (property "Reference" "D?" (at 78.74 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 80.01 92.075 0)
@@ -4028,10 +4028,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D8") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D8") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -4040,7 +4040,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 101.6 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4c48b3a-84dc-4ae4-b059-ef28769e22db)
-    (property "Reference" "D23" (at 104.14 78.74 0)
+    (property "Reference" "D?" (at 104.14 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 105.41 78.74 0)
@@ -4057,10 +4057,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D23") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D23") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -4069,7 +4069,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 76.2 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4ee3be2-3a95-4a5a-a307-15eac638cedd)
-    (property "Reference" "D5" (at 78.74 50.165 0)
+    (property "Reference" "D?" (at 78.74 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 80.01 50.165 0)
@@ -4086,10 +4086,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D5") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -4098,7 +4098,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 120.65 50.165 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f7b9d9ac-257c-429b-afa1-34cb7bc5fc2d)
-    (property "Reference" "D34" (at 123.19 50.165 0)
+    (property "Reference" "D?" (at 123.19 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 124.46 50.165 0)
@@ -4115,10 +4115,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D34") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D34") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -4127,7 +4127,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 69.85 78.74 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f95e76f3-df7d-4689-8338-e8af450496e1)
-    (property "Reference" "D3" (at 72.39 78.74 0)
+    (property "Reference" "D?" (at 72.39 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 73.66 78.74 0)
@@ -4144,10 +4144,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D3") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D3") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -4156,7 +4156,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 123.19 45.085 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f963787e-ba95-47a7-be2b-f0b4614f3a50)
-    (property "Reference" "SW9" (at 123.19 40.005 0)
+    (property "Reference" "SW?" (at 123.19 40.005 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 123.19 40.005 0)
@@ -4173,10 +4173,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW9") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "SW9") (unit 1)
+          (reference "SW11") (unit 1)
         )
       )
     )
@@ -4185,7 +4185,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 104.14 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fb421697-0423-4d0d-9d11-46ee09d40b5e)
-    (property "Reference" "SW36a1" (at 104.14 101.6 0)
+    (property "Reference" "SW36a?" (at 104.14 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 104.14 101.6 0)
@@ -4202,7 +4202,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW36a1") (unit 1)
+          (reference "SW36a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW36a1") (unit 1)
@@ -4214,7 +4214,7 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc336205-ce58-4714-a455-8ef088782e39)
-    (property "Reference" "SW37a1" (at 110.49 101.6 0)
+    (property "Reference" "SW37a?" (at 110.49 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 101.6 0)
@@ -4231,7 +4231,7 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "SW37a1") (unit 1)
+          (reference "SW37a?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
           (reference "SW37a1") (unit 1)
@@ -4243,7 +4243,7 @@
   (symbol (lib_id "ComboDiode:D_Small") (at 69.85 66.04 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff01cdd3-297f-40a6-bc64-7c2e82654973)
-    (property "Reference" "D2" (at 72.39 66.04 0)
+    (property "Reference" "D?" (at 72.39 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 73.66 66.04 0)
@@ -4260,10 +4260,10 @@
     (instances
       (project "Didaktik STEM"
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/6e18f33c-52fd-4500-abcd-bacc1810501e/d8791db5-f464-49bb-ad8b-37845fcd0909"
-          (reference "D2") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
