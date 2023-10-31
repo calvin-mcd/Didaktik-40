@@ -3,13 +3,14 @@
 The Didaktik 40 is a retro-style keyboard taking its inspiration form the czech homecomputer, the [didaktik gama](https://en.wikipedia.org/wiki/Didaktik#Didaktik_Gama). While offering its original layout, it also supports more modern split and single spacebar bottomrow configurations as well as two rotary encoders.
 The case is being designed by gizzle13. It is a 2 degree, 2 piece case with top mounting for either simple or burger topmounting. It uses an old-school unified daughterboard for the usb port. The case and pcb furthermore support 2 leds, just like on the original case, and another hole to access the reset button.
 
+![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_top.jpg)
+![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/20230210_113844.jpg)
+
 ## Layout
 
 ![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/KLE.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/80f2dfd555ef09043852ad12f22f6b8f)
-
-![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/20230210_113844.jpg)
 
 ## Firmware
 
@@ -17,17 +18,16 @@ The basic firmware is set up to use the leds as layer indicators. Top for layer 
 
 ## Case
 
-The case is wip and is being designed by gizzle13. If you ever need a 3d printed case and are based in the EU, do check out gizzle's work.
+The case is designed by gizzle13 and you can get it printed directly with them. Case files will be released on printables soon.
 
-![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_wip1.png)
-![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_wip2.png)
-![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_wip4.png)
+![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_top2.jpg)
+![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_side.jpg)
 
 ## Todo
 
 - [X] order & test pcb
 - [X] create firmware
-- [ ] create & test case
+- [X] create & test case
 
 ## Disclaimer
 
