@@ -1,7 +1,7 @@
 # Didaktik 40
 
 The Didaktik 40 is a retro-style keyboard taking its inspiration form the czech homecomputer, the [didaktik gama](https://en.wikipedia.org/wiki/Didaktik#Didaktik_Gama). While offering its original layout, it also supports more modern split and single spacebar bottomrow configurations as well as two rotary encoders.
-The case is being designed by gizzle13. It is a 2 degree, 2 piece case with top mounting for either simple or burger topmounting. It uses an old-school unified daughterboard for the usb port. The case and pcb furthermore support 2 leds, just like on the original case, and another hole to access the reset button.
+The case is designed by gizzle13. It is a 2 degree, 2 piece case with top mounting for either simple or burger topmounting. It uses an old-school unified daughterboard for the usb port. The case and pcb furthermore support 2 leds, just like on the original case, and another hole to access the reset button.
 
 ![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_top.jpg)
 ![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/20230210_113844.jpg)
