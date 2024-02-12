@@ -18,7 +18,9 @@ The basic firmware is set up to use the leds as layer indicators. Top for layer 
 
 ## Case
 
-The case is designed by gizzle13 and you can get it printed directly with them. Case files will be released on printables soon.
+The case is designed by gizzle13. Case files can be found in the respective folder. It is designed to use m2 heatinserts. 
+
+If you are in the EU consider asking gizzle to print the case for you to support them!
 
 ![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_top2.jpg)
 ![](https://github.com/calvin-mcd/Didaktik-40/blob/main/Images/case_side.jpg)
